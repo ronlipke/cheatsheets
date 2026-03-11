@@ -2,13 +2,13 @@
 
 ### Things
 
-- Quick Entry: Hyper + F
+- Quick Entry: ◈ + F
 
 ### Notion
 
-- Global Search: Hyper + F
+- Global Search: ◈ + F
 
 ### Zoom
 
-- 🎤 Mute/Unmute: Hyper + M
-- 📹 Video Toggle: Hyper + N
+- 🎤 Mute/Unmute: ◈ + M
+- 📹 Video Toggle: ◈ + N
