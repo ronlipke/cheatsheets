@@ -1,5 +1,9 @@
 ## Try to remember these you dummy
 
+### All
+
+- Emoji Search: ⌃⌘ + Space
+
 ### Things
 
 - Quick Entry: ◈ + F
@@ -11,4 +15,4 @@
 ### Zoom
 
 - 🎤 Mute/Unmute: ◈ + M
-- 📹 Video Toggle: ◈ + N
+- 📹 Video Toggle: ◈ + V
